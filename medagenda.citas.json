@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f8e"
+  },
+  "id": 1,
+  "paciente_id": 1,
+  "medico_id": 3,
+  "sucursal_id": 2,
+  "fecha_hora": "2025-06-20T10:00:00",
+  "motivo": "Limpieza dental y revisión general"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f8f"
+  },
+  "id": 2,
+  "paciente_id": 5,
+  "medico_id": 1,
+  "sucursal_id": 1,
+  "fecha_hora": "2025-06-21T11:30:00",
+  "motivo": "Consulta para ortodoncia"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f90"
+  },
+  "id": 3,
+  "paciente_id": 8,
+  "medico_id": 8,
+  "sucursal_id": 3,
+  "fecha_hora": "2025-06-22T09:00:00",
+  "motivo": "Implante dental"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f91"
+  },
+  "id": 4,
+  "paciente_id": 2,
+  "medico_id": 2,
+  "sucursal_id": 4,
+  "fecha_hora": "2025-06-22T14:00:00",
+  "motivo": "Tratamiento de conducto"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f92"
+  },
+  "id": 5,
+  "paciente_id": 7,
+  "medico_id": 5,
+  "sucursal_id": 5,
+  "fecha_hora": "2025-06-23T16:00:00",
+  "motivo": "Consulta odontopediátrica"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f93"
+  },
+  "id": 6,
+  "paciente_id": 10,
+  "medico_id": 4,
+  "sucursal_id": 1,
+  "fecha_hora": "2025-06-24T09:30:00",
+  "motivo": "Extracción dental"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f94"
+  },
+  "id": 7,
+  "paciente_id": 3,
+  "medico_id": 7,
+  "sucursal_id": 2,
+  "fecha_hora": "2025-06-24T11:00:00",
+  "motivo": "Revisión general y limpieza"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f95"
+  },
+  "id": 8,
+  "paciente_id": 9,
+  "medico_id": 9,
+  "sucursal_id": 3,
+  "fecha_hora": "2025-06-25T13:30:00",
+  "motivo": "Blanqueamiento dental"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f96"
+  },
+  "id": 9,
+  "paciente_id": 6,
+  "medico_id": 6,
+  "sucursal_id": 4,
+  "fecha_hora": "2025-06-25T15:00:00",
+  "motivo": "Prótesis dental"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f97"
+  },
+  "id": 10,
+  "paciente_id": 4,
+  "medico_id": 10,
+  "sucursal_id": 5,
+  "fecha_hora": "2025-06-26T10:30:00",
+  "motivo": "Revisión preventiva"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f98"
+  },
+  "id": 11,
+  "paciente_id": 11,
+  "medico_id": 11,
+  "sucursal_id": 1,
+  "fecha_hora": "2025-06-27T12:00:00",
+  "motivo": "Consulta de ortodoncia"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f99"
+  },
+  "id": 12,
+  "paciente_id": 12,
+  "medico_id": 12,
+  "sucursal_id": 2,
+  "fecha_hora": "2025-06-27T14:30:00",
+  "motivo": "Tratamiento endodóntico"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f9a"
+  },
+  "id": 13,
+  "paciente_id": 14,
+  "medico_id": 13,
+  "sucursal_id": 3,
+  "fecha_hora": "2025-06-28T09:00:00",
+  "motivo": "Tratamiento periodontal"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f9b"
+  },
+  "id": 14,
+  "paciente_id": 15,
+  "medico_id": 14,
+  "sucursal_id": 4,
+  "fecha_hora": "2025-06-28T11:00:00",
+  "motivo": "Cirugía oral menor"
+},
+{
+  "_id": {
+    "$oid": "684f65cbc7bb6fce556b5f9c"
+  },
+  "id": 15,
+  "paciente_id": 13,
+  "medico_id": 15,
+  "sucursal_id": 5,
+  "fecha_hora": "2025-06-29T16:30:00",
+  "motivo": "Consulta odontopediátrica"
+}]

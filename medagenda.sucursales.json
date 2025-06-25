@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5f9f"
+  },
+  "id": 1,
+  "nombre": "Clínica Dental Toluca Centro",
+  "direccion": "Av. Independencia 101, Toluca Centro, Estado de México",
+  "telefono": "+52 722 123 4567",
+  "horarios": "Lunes a Viernes 9:00 - 18:00, Sábado 9:00 - 14:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa0"
+  },
+  "id": 2,
+  "nombre": "Dental Care Toluca Norte",
+  "direccion": "Calle Morelos 202, Col. San Miguel, Toluca",
+  "telefono": "+52 722 234 5678",
+  "horarios": "Lunes a Viernes 8:00 - 17:00, Sábado 9:00 - 13:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa1"
+  },
+  "id": 3,
+  "nombre": "Sonrisas CDMX Centro",
+  "direccion": "Av. Juárez 123, Centro Histórico, Ciudad de México",
+  "telefono": "+52 55 345 6789",
+  "horarios": "Lunes a Viernes 10:00 - 19:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa2"
+  },
+  "id": 4,
+  "nombre": "Clínica Odontológica Reforma",
+  "direccion": "Av. Reforma 456, Col. Juárez, Ciudad de México",
+  "telefono": "+52 55 456 7890",
+  "horarios": "Lunes a Viernes 9:00 - 18:00, Sábado 9:00 - 14:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa3"
+  },
+  "id": 5,
+  "nombre": "Sonrisas Familiares Toluca",
+  "direccion": "Calle Hidalgo 78, Toluca Centro",
+  "telefono": "+52 722 345 6789",
+  "horarios": "Lunes a Viernes 8:00 - 16:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa4"
+  },
+  "id": 6,
+  "nombre": "Dental Life Toluca Sur",
+  "direccion": "Av. Las Torres 305, Toluca",
+  "telefono": "+52 722 987 6543",
+  "horarios": "Lunes a Viernes 9:00 - 18:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa5"
+  },
+  "id": 7,
+  "nombre": "Clínica Dental San Mateo",
+  "direccion": "Calle Benito Juárez 50, Col. San Mateo, Toluca",
+  "telefono": "+52 722 876 5432",
+  "horarios": "Lunes a Viernes 8:00 - 17:00, Sábado 9:00 - 13:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa6"
+  },
+  "id": 8,
+  "nombre": "OdontoSalud CDMX",
+  "direccion": "Av. Insurgentes Sur 789, Ciudad de México",
+  "telefono": "+52 55 567 8901",
+  "horarios": "Lunes a Viernes 9:00 - 19:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa7"
+  },
+  "id": 9,
+  "nombre": "Clínica Dental La Merced",
+  "direccion": "Av. Independencia 220, Col. La Merced, Toluca",
+  "telefono": "+52 722 678 1234",
+  "horarios": "Lunes a Viernes 9:00 - 17:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa8"
+  },
+  "id": 10,
+  "nombre": "Sonrisas Toluca Oeste",
+  "direccion": "Calle Juárez 88, Toluca",
+  "telefono": "+52 722 564 7890",
+  "horarios": "Lunes a Viernes 8:00 - 16:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fa9"
+  },
+  "id": 11,
+  "nombre": "Clínica Dental Centro Histórico CDMX",
+  "direccion": "Calle 16 de Septiembre 100, Ciudad de México",
+  "telefono": "+52 55 654 3210",
+  "horarios": "Lunes a Viernes 9:00 - 18:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5faa"
+  },
+  "id": 12,
+  "nombre": "Dental Experts Toluca",
+  "direccion": "Av. Morelos Norte 101, Toluca",
+  "telefono": "+52 722 778 8899",
+  "horarios": "Lunes a Viernes 9:00 - 17:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fab"
+  },
+  "id": 13,
+  "nombre": "Clínica Sonrisas San Juan",
+  "direccion": "Calle San Juan 204, Toluca",
+  "telefono": "+52 722 445 5566",
+  "horarios": "Lunes a Viernes 9:00 - 18:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fac"
+  },
+  "id": 14,
+  "nombre": "Odontología Integral CDMX",
+  "direccion": "Av. Paseo de la Reforma 300, Ciudad de México",
+  "telefono": "+52 55 432 1234",
+  "horarios": "Lunes a Viernes 8:00 - 17:00"
+},
+{
+  "_id": {
+    "$oid": "684f65edc7bb6fce556b5fad"
+  },
+  "id": 15,
+  "nombre": "Clínica Dental Toluca Sur",
+  "direccion": "Av. Las Américas 200, Toluca",
+  "telefono": "+52 722 998 7766",
+  "horarios": "Lunes a Viernes 9:00 - 18:00"
+}]

@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f7d"
+  },
+  "id": 1,
+  "nombre": "Dra. Ana María García Torres",
+  "especialidad": "Ortodoncia",
+  "registro_profesional": "OD-1234567",
+  "telefono": "+52 722 456 7890",
+  "email": "ana.garcia@clinicadentaltoluca.com"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f7e"
+  },
+  "id": 2,
+  "nombre": "Dr. Carlos Hernández Ruiz",
+  "especialidad": "Endodoncia",
+  "registro_profesional": "OD-2345678",
+  "telefono": "+52 55 765 4321",
+  "email": "carlos.hernandez@dentistascdmx.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f7f"
+  },
+  "id": 3,
+  "nombre": "Dra. Patricia Mendoza López",
+  "especialidad": "Periodoncia",
+  "registro_profesional": "OD-3456789",
+  "telefono": "+52 722 321 4567",
+  "email": "patricia.mendoza@dentaltoluca.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f80"
+  },
+  "id": 4,
+  "nombre": "Dr. Luis Alberto Ruiz Pérez",
+  "especialidad": "Cirugía Oral",
+  "registro_profesional": "OD-4567890",
+  "telefono": "+52 55 678 1234",
+  "email": "luis.ruiz@clinicadental.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f81"
+  },
+  "id": 5,
+  "nombre": "Dra. Gabriela Flores Martínez",
+  "especialidad": "Odontopediatría",
+  "registro_profesional": "OD-5678901",
+  "telefono": "+52 722 789 1234",
+  "email": "gabriela.flores@odontopediatria.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f82"
+  },
+  "id": 6,
+  "nombre": "Dr. José Manuel Torres Gómez",
+  "especialidad": "Prostodoncia",
+  "registro_profesional": "OD-6789012",
+  "telefono": "+52 55 876 5432",
+  "email": "jose.torres@prostodoncia.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f83"
+  },
+  "id": 7,
+  "nombre": "Dra. Mariana Sánchez Herrera",
+  "especialidad": "Odontología General",
+  "registro_profesional": "OD-7890123",
+  "telefono": "+52 722 345 6789",
+  "email": "mariana.sanchez@clinicadentaltoluca.com"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f84"
+  },
+  "id": 8,
+  "nombre": "Dr. Ricardo Vargas Jiménez",
+  "especialidad": "Implantología",
+  "registro_profesional": "OD-8901234",
+  "telefono": "+52 55 432 9876",
+  "email": "ricardo.vargas@dentistascdmx.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f85"
+  },
+  "id": 9,
+  "nombre": "Dra. Laura Ramírez Cruz",
+  "especialidad": "Estética Dental",
+  "registro_profesional": "OD-9012345",
+  "telefono": "+52 722 654 3210",
+  "email": "laura.ramirez@dentaltoluca.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f86"
+  },
+  "id": 10,
+  "nombre": "Dr. Andrés Morales Reyes",
+  "especialidad": "Odontología Preventiva",
+  "registro_profesional": "OD-0123456",
+  "telefono": "+52 55 765 1234",
+  "email": "andres.morales@clinicadental.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f87"
+  },
+  "id": 11,
+  "nombre": "Dra. Claudia Pérez Sánchez",
+  "especialidad": "Ortodoncia",
+  "registro_profesional": "OD-1122334",
+  "telefono": "+52 722 876 5432",
+  "email": "claudia.perez@odontopediatria.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f88"
+  },
+  "id": 12,
+  "nombre": "Dr. Fernando Ortega Martínez",
+  "especialidad": "Endodoncia",
+  "registro_profesional": "OD-2233445",
+  "telefono": "+52 55 345 6789",
+  "email": "fernando.ortega@prostodoncia.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f89"
+  },
+  "id": 13,
+  "nombre": "Dra. Verónica Sánchez Ruiz",
+  "especialidad": "Periodoncia",
+  "registro_profesional": "OD-3344556",
+  "telefono": "+52 722 998 8776",
+  "email": "veronica.sanchez@clinicadentaltoluca.com"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f8a"
+  },
+  "id": 14,
+  "nombre": "Dr. Luis Alberto Jiménez López",
+  "especialidad": "Cirugía Oral",
+  "registro_profesional": "OD-4455667",
+  "telefono": "+52 55 123 4567",
+  "email": "luis.jimenez@dentistascdmx.mx"
+},
+{
+  "_id": {
+    "$oid": "684f6597c7bb6fce556b5f8b"
+  },
+  "id": 15,
+  "nombre": "Dra. Andrea Ruiz Gómez",
+  "especialidad": "Odontopediatría",
+  "registro_profesional": "OD-5566778",
+  "telefono": "+52 722 443 5566",
+  "email": "andrea.ruiz@dentaltoluca.mx"
+}]

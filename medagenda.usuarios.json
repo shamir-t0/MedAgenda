@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fc3"
+  },
+  "id": 1,
+  "nombre": "Ana Sofía López Martínez",
+  "email": "ana.lopez@example.com",
+  "rol": "paciente",
+  "telefono": "+52 722 123 4567"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fc4"
+  },
+  "id": 2,
+  "nombre": "Carlos Eduardo Ramírez Cruz",
+  "email": "carlos.ramirez@mail.com",
+  "rol": "paciente",
+  "telefono": "+52 55 9876 5432"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fc5"
+  },
+  "id": 3,
+  "nombre": "María Fernanda González Pérez",
+  "email": "maria.gonzalez@gmail.com",
+  "rol": "paciente",
+  "telefono": "+52 722 555 7890"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fc6"
+  },
+  "id": 4,
+  "nombre": "Jorge Luis Torres Hernández",
+  "email": "jorge.torres@hotmail.com",
+  "rol": "recepcionista",
+  "telefono": "+52 55 6745 4321"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fc7"
+  },
+  "id": 5,
+  "nombre": "Lucía Martínez Vargas",
+  "email": "lucia.martinez@example.com",
+  "rol": "paciente",
+  "telefono": "+52 722 334 5567"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fc8"
+  },
+  "id": 6,
+  "nombre": "Ricardo Sánchez López",
+  "email": "ricardo.sanchez@mail.com",
+  "rol": "paciente",
+  "telefono": "+52 55 1234 9876"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fc9"
+  },
+  "id": 7,
+  "nombre": "Andrea Ruiz Gómez",
+  "email": "andrea.ruiz@gmail.com",
+  "rol": "paciente",
+  "telefono": "+52 722 665 4321"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fca"
+  },
+  "id": 8,
+  "nombre": "Miguel Ángel Castillo Díaz",
+  "email": "miguel.castillo@hotmail.com",
+  "rol": "paciente",
+  "telefono": "+52 55 4321 8765"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fcb"
+  },
+  "id": 9,
+  "nombre": "Sofía Morales Reyes",
+  "email": "sofia.morales@example.com",
+  "rol": "paciente",
+  "telefono": "+52 722 765 4321"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fcc"
+  },
+  "id": 10,
+  "nombre": "José Luis Herrera Vargas",
+  "email": "jose.herrera@mail.com",
+  "rol": "paciente",
+  "telefono": "+52 55 9988 7766"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fcd"
+  },
+  "id": 11,
+  "nombre": "Paola Jiménez Morales",
+  "email": "paola.jimenez@gmail.com",
+  "rol": "paciente",
+  "telefono": "+52 722 556 7890"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fce"
+  },
+  "id": 12,
+  "nombre": "Daniela Pérez Sánchez",
+  "email": "daniela.perez@example.com",
+  "rol": "paciente",
+  "telefono": "+52 55 3456 7890"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fcf"
+  },
+  "id": 13,
+  "nombre": "Fernando Ortega Martínez",
+  "email": "fernando.ortega@mail.com",
+  "rol": "administrador",
+  "telefono": "+52 722 443 2211"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fd0"
+  },
+  "id": 14,
+  "nombre": "Verónica Sánchez Ruiz",
+  "email": "veronica.sanchez@gmail.com",
+  "rol": "médico",
+  "telefono": "+52 55 1234 5678"
+},
+{
+  "_id": {
+    "$oid": "684f666ec7bb6fce556b5fd1"
+  },
+  "id": 15,
+  "nombre": "Alejandro Torres López",
+  "email": "alejandro.torres@example.com",
+  "rol": "médico",
+  "telefono": "+52 722 778 8899"
+}]

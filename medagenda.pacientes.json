@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f6c"
+  },
+  "id": 1,
+  "nombre": "Ana Sofía López Martínez",
+  "fecha_nacimiento": "1990-04-15",
+  "telefono": "+52 722 123 4567",
+  "email": "ana.lopez@example.com",
+  "direccion": "Av. Independencia 345, Col. La Merced, Toluca, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f6d"
+  },
+  "id": 2,
+  "nombre": "Carlos Eduardo Ramírez Cruz",
+  "fecha_nacimiento": "1985-11-20",
+  "telefono": "+52 55 9876 5432",
+  "email": "carlos.ramirez@mail.com",
+  "direccion": "Calle 5 de Mayo 112, Toluca Centro, Toluca, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f6e"
+  },
+  "id": 3,
+  "nombre": "María Fernanda González Pérez",
+  "fecha_nacimiento": "1992-07-02",
+  "telefono": "+52 722 555 7890",
+  "email": "maria.gonzalez@gmail.com",
+  "direccion": "Calle San Juan 204, Col. San Miguel, Toluca, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f6f"
+  },
+  "id": 4,
+  "nombre": "Jorge Luis Torres Hernández",
+  "fecha_nacimiento": "1978-03-25",
+  "telefono": "+52 55 6745 4321",
+  "email": "jorge.torres@hotmail.com",
+  "direccion": "Av. Central 120, Col. Reforma, Toluca, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f70"
+  },
+  "id": 5,
+  "nombre": "Lucía Martínez Vargas",
+  "fecha_nacimiento": "2000-12-10",
+  "telefono": "+52 722 334 5567",
+  "email": "lucia.martinez@example.com",
+  "direccion": "Calle Hidalgo 78, Toluca Centro, Toluca, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f71"
+  },
+  "id": 6,
+  "nombre": "Ricardo Sánchez López",
+  "fecha_nacimiento": "1988-09-30",
+  "telefono": "+52 55 1234 9876",
+  "email": "ricardo.sanchez@mail.com",
+  "direccion": "Calle Juárez 55, Toluca Centro, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f72"
+  },
+  "id": 7,
+  "nombre": "Andrea Ruiz Gómez",
+  "fecha_nacimiento": "1995-01-18",
+  "telefono": "+52 722 665 4321",
+  "email": "andrea.ruiz@gmail.com",
+  "direccion": "Av. Las Torres 100, Toluca, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f73"
+  },
+  "id": 8,
+  "nombre": "Miguel Ángel Castillo Díaz",
+  "fecha_nacimiento": "1983-06-22",
+  "telefono": "+52 55 4321 8765",
+  "email": "miguel.castillo@hotmail.com",
+  "direccion": "Calle Morelos 12, Toluca Centro, Toluca"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f74"
+  },
+  "id": 9,
+  "nombre": "Sofía Morales Reyes",
+  "fecha_nacimiento": "1999-11-05",
+  "telefono": "+52 722 765 4321",
+  "email": "sofia.morales@example.com",
+  "direccion": "Calle Benito Juárez 80, Col. San Mateo, Toluca"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f75"
+  },
+  "id": 10,
+  "nombre": "José Luis Herrera Vargas",
+  "fecha_nacimiento": "1975-02-14",
+  "telefono": "+52 55 9988 7766",
+  "email": "jose.herrera@mail.com",
+  "direccion": "Av. Las Américas 200, Toluca, Estado de México"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f76"
+  },
+  "id": 11,
+  "nombre": "Paola Jiménez Morales",
+  "fecha_nacimiento": "1987-08-09",
+  "telefono": "+52 722 556 7890",
+  "email": "paola.jimenez@gmail.com",
+  "direccion": "Callejón del Gato 33, Toluca Centro"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f77"
+  },
+  "id": 12,
+  "nombre": "Daniela Pérez Sánchez",
+  "fecha_nacimiento": "1991-05-27",
+  "telefono": "+52 55 3456 7890",
+  "email": "daniela.perez@example.com",
+  "direccion": "Av. Morelos 123, Toluca"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f78"
+  },
+  "id": 13,
+  "nombre": "Fernando Ortega Martínez",
+  "fecha_nacimiento": "1980-07-15",
+  "telefono": "+52 722 443 2211",
+  "email": "fernando.ortega@mail.com",
+  "direccion": "Callejón Flores 45, Toluca Centro"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f79"
+  },
+  "id": 14,
+  "nombre": "Verónica Sánchez Ruiz",
+  "fecha_nacimiento": "1994-10-11",
+  "telefono": "+52 55 1234 5678",
+  "email": "veronica.sanchez@gmail.com",
+  "direccion": "Calle Independencia 220, Toluca"
+},
+{
+  "_id": {
+    "$oid": "684f6567c7bb6fce556b5f7a"
+  },
+  "id": 15,
+  "nombre": "Luis Alberto Jiménez López",
+  "fecha_nacimiento": "1989-03-30",
+  "telefono": "+52 722 665 8899",
+  "email": "luis.jimenez@example.com",
+  "direccion": "Av. Morelos Norte 101, Toluca"
+}]

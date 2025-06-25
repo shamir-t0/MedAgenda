@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb0"
+  },
+  "id": 1,
+  "usuario_id": 1,
+  "tipo": "recordatorio",
+  "mensaje": "Recordatorio: Tienes una cita con la Dra. Patricia Mendoza el 20 de junio a las 10:00.",
+  "fecha": "2025-06-19T09:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb1"
+  },
+  "id": 2,
+  "usuario_id": 5,
+  "tipo": "alerta",
+  "mensaje": "Su pago para el tratamiento de ortodoncia está pendiente.",
+  "fecha": "2025-06-18T12:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb2"
+  },
+  "id": 3,
+  "usuario_id": 3,
+  "tipo": "info",
+  "mensaje": "La clínica estará cerrada el próximo 1 de julio por mantenimiento.",
+  "fecha": "2025-06-15T15:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb3"
+  },
+  "id": 4,
+  "usuario_id": 8,
+  "tipo": "recordatorio",
+  "mensaje": "Recuerda asistir a tu cita con el Dr. Ricardo Vargas el 22 de junio a las 9:00.",
+  "fecha": "2025-06-21T08:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb4"
+  },
+  "id": 5,
+  "usuario_id": 2,
+  "tipo": "alerta",
+  "mensaje": "Tu tratamiento de conducto requiere seguimiento, agenda una cita.",
+  "fecha": "2025-06-20T10:30:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb5"
+  },
+  "id": 6,
+  "usuario_id": 7,
+  "tipo": "info",
+  "mensaje": "Nueva sucursal abierta en Toluca Norte.",
+  "fecha": "2025-06-10T09:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb6"
+  },
+  "id": 7,
+  "usuario_id": 10,
+  "tipo": "recordatorio",
+  "mensaje": "Tienes cita con el Dr. Luis Alberto Ruiz el 24 de junio a las 9:30.",
+  "fecha": "2025-06-23T08:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb7"
+  },
+  "id": 8,
+  "usuario_id": 4,
+  "tipo": "alerta",
+  "mensaje": "Actualiza tus datos de contacto para recibir notificaciones.",
+  "fecha": "2025-06-15T13:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb8"
+  },
+  "id": 9,
+  "usuario_id": 6,
+  "tipo": "info",
+  "mensaje": "Ofrecemos nuevo servicio de prótesis dental en la sucursal Toluca Centro.",
+  "fecha": "2025-06-16T10:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fb9"
+  },
+  "id": 10,
+  "usuario_id": 9,
+  "tipo": "recordatorio",
+  "mensaje": "Cita programada con la Dra. Laura Ramírez el 25 de junio a las 13:30.",
+  "fecha": "2025-06-24T09:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fba"
+  },
+  "id": 11,
+  "usuario_id": 11,
+  "tipo": "info",
+  "mensaje": "Recordamos la importancia de la limpieza dental cada 6 meses.",
+  "fecha": "2025-06-12T10:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fbb"
+  },
+  "id": 12,
+  "usuario_id": 12,
+  "tipo": "alerta",
+  "mensaje": "Tu tratamiento requiere una consulta adicional.",
+  "fecha": "2025-06-22T11:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fbc"
+  },
+  "id": 13,
+  "usuario_id": 14,
+  "tipo": "recordatorio",
+  "mensaje": "Tienes cita con la Dra. Verónica Sánchez el 28 de junio a las 9:00.",
+  "fecha": "2025-06-27T08:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fbd"
+  },
+  "id": 14,
+  "usuario_id": 15,
+  "tipo": "info",
+  "mensaje": "Nuevo horario de atención en la sucursal Toluca Sur.",
+  "fecha": "2025-06-15T09:00:00"
+},
+{
+  "_id": {
+    "$oid": "684f6613c7bb6fce556b5fbe"
+  },
+  "id": 15,
+  "usuario_id": 13,
+  "tipo": "alerta",
+  "mensaje": "Recuerda realizar el pago de tu tratamiento para evitar cancelaciones.",
+  "fecha": "2025-06-21T14:00:00"
+}]
